@@ -1,0 +1,1 @@
+Show the photo identifier on the page of the photo
