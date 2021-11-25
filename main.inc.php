@@ -53,7 +53,7 @@ function spi_end_picture()
     );
 }
 
-function spi_picture_prefilter($content, &$smarty)
+function spi_picture_prefilter($content)
 {
   $search = '{if $display_info.rating_score';
   
