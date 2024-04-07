@@ -1,0 +1,1 @@
+Fotoğraf tanımlayıcısını fotoğrafın sayfasında göster
