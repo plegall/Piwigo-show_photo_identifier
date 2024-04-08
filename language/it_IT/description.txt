@@ -1,0 +1,1 @@
+Mostra l'identificatore della fotografia all'interno della pagina della fotografia stessa.
