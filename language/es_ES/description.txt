@@ -1,0 +1,1 @@
+Muestra el identificador de la foto en la página de la misma
