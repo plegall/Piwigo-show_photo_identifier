@@ -1,0 +1,1 @@
+Mostra l'identificador de la foto a la seva pàgina corresponent
